@@ -1,0 +1,15 @@
+
+env/
+
+
+__pycache__/
+*.pyc
+
+
+**/.env
+
+
+frontend/test_audio.py
+
+
+.vscode/

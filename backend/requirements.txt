@@ -1,0 +1,17 @@
+fastapi[standard]
+uvicorn
+google
+google-cloud-aiplatform
+google-cloud-translate
+google-cloud-texttospeech
+google-cloud-speech
+google-generativeai
+requests
+python-dotenv
+pydantic
+pydantic-settings
+psycopg2
+agno
+sqlalchemy
+psycopg[binary]
+httpx
